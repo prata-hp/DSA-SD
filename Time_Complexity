@@ -1,0 +1,64 @@
+# Time Complexity
+
+Time complexity is a computational complexity that describes the amount of time it takes to run an algorithm. It is commonly expressed using Big O notation, which classifies algorithms according to their worst-case or upper bound performance.
+
+## Common Time Complexities
+
+1. **O(1) - Constant Time**: The algorithm takes the same amount of time to execute, regardless of the input size.
+2. **O(log n) - Logarithmic Time**: The algorithm's execution time grows logarithmically with the input size.
+3. **O(n) - Linear Time**: The algorithm's execution time grows linearly with the input size.
+4. **O(n log n) - Linear arithmic Time**: The algorithm's execution time grows in proportion to n log n.
+5. **O(n^2) - Quadratic Time**: The algorithm's execution time grows quadratically with the input size.
+6. **O(2^n) - Exponential Time**: The algorithm's execution time grows exponentially with the input size.
+7. **O(n!) - Factorial Time**: The algorithm's execution time grows factorially with the input size.
+
+## Rules of Time Complexity
+
+1. **Drop Constants**: O(2n) is simplified to O(n).
+2. **Drop Non-Dominant Terms**: O(n^2 + n) is simplified to O(n^2).
+3. **Multiplicative Constants**: O(c * f(n)) is simplified to O(f(n)), where c is a constant.
+4. **Addition Rule**: O(f(n) + g(n)) is max(O(f(n)), O(g(n))).
+5. **Multiplication Rule**: O(f(n) * g(n)) is the product of O(f(n)) and O(g(n)).
+
+Understanding time complexity helps in analyzing the efficiency of algorithms and choosing the most appropriate one for a given problem.
+,,,,
+/*
+Big—0 Notation
+n — The size of the input
+Complexities ordered in from smallest to largest
+Constant Time: o(1)
+Logarithmic Time : 0(log(n))
+Linear Time:0(n)
+Linearithmic Time : 0(nlog(n))
+Quadric Time: 0(n^2)
+Cubic Time: O(n^3)
+Exponential Time : O(b^n), b > 1
+FactorialTime: 0(n!)
+*/
+
+/*
+Big-O Properties
+O(n + c) = 0(n)
+O(cn) = O(n), c > 0
+// constants are theoratically ignored
+Let f be a function that describes
+the running time of a particular
+algorithm for an input of size n:
+if f(n)= 7 log (n) ^3 + 15n^2 + 2n^3 + 8
+then O(f(n)) =O(n3)
+*/
+
+/*Big-0 Examples
+Both of the following run in quadratic time.
+The first may be obvious since n work done
+n times is n*n = O(n2) but what about the
+second one?
+For(i := 0; i<n; i= i+1)
+For (j :=0 ; i<n ; i = i+1)
+
+f(n)= n*n = O(f(n)) = o(n2)
+
+
+For (i :0 ; i<n; i = i+1)
+For (J := i; j<n; j+ j+1)
+with-in--*/

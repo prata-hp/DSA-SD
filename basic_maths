@@ -1,0 +1,14 @@
+1. EXTRACTION OF DIGITS FROM A GIVEN NUMBER= N%10 TILL THE NUMBER OF DIGITS 
+
+2. Reversing a number = 
+last digit = n%10;
+n = n/10;
+revnum = (revnum*10) + lastdigit;
+
+3.Palindrome= reverse is exactly same as original
+  
+4.Armstrong Number = calc digit+   loop()...look notes
+
+5.  Print of all divisors
+
+6. 

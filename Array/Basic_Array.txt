@@ -1,0 +1,2 @@
+/* Data structure which contains same type of data
+* When an array is declared in an initiated then it contains garbage value but when an empty array is initiated globally then it contains zero*/
