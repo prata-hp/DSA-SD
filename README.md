@@ -22,4 +22,8 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
