@@ -7,6 +7,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -47,4 +49,12 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prata-hp/DSA-SD/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
