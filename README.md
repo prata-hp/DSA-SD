@@ -27,6 +27,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -53,8 +54,17 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
