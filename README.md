@@ -42,6 +42,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prata-hp/DSA-SD/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
