@@ -31,5 +31,5 @@ public:
         else dummy->next = NULL;
         return head;
     }
-//please upvote...
+
 };
