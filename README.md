@@ -15,6 +15,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0008-string-to-integer-atoi](https://github.com/prata-hp/DSA-SD/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prata-hp/DSA-SD/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
@@ -52,6 +54,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +94,8 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
