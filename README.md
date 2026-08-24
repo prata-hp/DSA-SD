@@ -41,6 +41,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prata-hp/DSA-SD/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Math
@@ -48,6 +49,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prata-hp/DSA-SD/tree/main/0002-add-two-numbers/) | Medium |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prata-hp/DSA-SD/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -55,10 +57,12 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -118,4 +122,16 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/prata-hp/DSA-SD/tree/main/0148-sort-list/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
