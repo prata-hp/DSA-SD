@@ -10,6 +10,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prata-hp/DSA-SD/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prata-hp/DSA-SD/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prata-hp/DSA-SD/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prata-hp/DSA-SD/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
