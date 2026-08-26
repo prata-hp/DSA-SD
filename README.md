@@ -18,6 +18,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prata-hp/DSA-SD/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prata-hp/DSA-SD/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
