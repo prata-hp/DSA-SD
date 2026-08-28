@@ -21,6 +21,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prata-hp/DSA-SD/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0160-intersection-of-two-linked-lists](https://github.com/prata-hp/DSA-SD/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +152,5 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 <!---LeetCode Topics End-->
