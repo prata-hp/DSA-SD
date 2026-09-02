@@ -56,6 +56,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prata-hp/DSA-SD/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prata-hp/DSA-SD/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/prata-hp/DSA-SD/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prata-hp/DSA-SD/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/prata-hp/DSA-SD/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
