@@ -51,6 +51,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/prata-hp/DSA-SD/tree/main/0835-image-overlap/) | Medium |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prata-hp/DSA-SD/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -182,4 +183,8 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prata-hp/DSA-SD/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/prata-hp/DSA-SD/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
