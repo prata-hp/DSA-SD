@@ -20,6 +20,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prata-hp/DSA-SD/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -79,6 +80,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0160-intersection-of-two-linked-lists](https://github.com/prata-hp/DSA-SD/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -135,6 +138,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
