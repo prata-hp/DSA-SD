@@ -9,6 +9,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prata-hp/DSA-SD/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/prata-hp/DSA-SD/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prata-hp/DSA-SD/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -33,6 +34,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prata-hp/DSA-SD/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/prata-hp/DSA-SD/tree/main/0835-image-overlap/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prata-hp/DSA-SD/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -79,6 +82,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prata-hp/DSA-SD/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/prata-hp/DSA-SD/tree/main/1872-stone-game-viii/) | Hard |
@@ -123,6 +127,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prata-hp/DSA-SD/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
