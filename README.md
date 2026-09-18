@@ -10,6 +10,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0142-linked-list-cycle-ii](https://github.com/prata-hp/DSA-SD/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prata-hp/DSA-SD/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/prata-hp/DSA-SD/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prata-hp/DSA-SD/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -19,6 +20,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/prata-hp/DSA-SD/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -145,6 +147,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prata-hp/DSA-SD/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -156,6 +159,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/prata-hp/DSA-SD/tree/main/0148-sort-list/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prata-hp/DSA-SD/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
