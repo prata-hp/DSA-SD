@@ -23,6 +23,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1927-sum-game](https://github.com/prata-hp/DSA-SD/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prata-hp/DSA-SD/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -130,6 +131,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +234,8 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/prata-hp/DSA-SD/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
