@@ -23,6 +23,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0008-string-to-integer-atoi](https://github.com/prata-hp/DSA-SD/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prata-hp/DSA-SD/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -137,6 +138,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
@@ -245,6 +247,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prata-hp/DSA-SD/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
