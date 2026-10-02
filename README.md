@@ -21,6 +21,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/prata-hp/DSA-SD/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -99,6 +100,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prata-hp/DSA-SD/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -235,6 +237,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -247,6 +250,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
