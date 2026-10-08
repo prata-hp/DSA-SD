@@ -24,6 +24,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0020-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0856-score-of-parentheses/) | Medium |
@@ -106,6 +107,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prata-hp/DSA-SD/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/prata-hp/DSA-SD/tree/main/1563-stone-game-v/) | Hard |
@@ -145,6 +147,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0856-score-of-parentheses/) | Medium |
@@ -265,6 +268,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1021-remove-outermost-parentheses/) | Easy |
