@@ -25,6 +25,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prata-hp/DSA-SD/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -144,6 +145,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0234-palindrome-linked-list](https://github.com/prata-hp/DSA-SD/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/prata-hp/DSA-SD/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -259,6 +261,7 @@ Hanumant Pratap's Question[Solutions] and notes on Data Structures and Algorithm
 | [0022-generate-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/prata-hp/DSA-SD/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prata-hp/DSA-SD/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prata-hp/DSA-SD/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
